@@ -1,0 +1,1 @@
+Note: The First ipnyb file in this folder is trained on the custom dataset and the second file is trained on the ACP740 data for comparison purposes. Scanning of PhyloDB occurs in the first Ipnyb file. 

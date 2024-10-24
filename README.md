@@ -1,2 +1,2 @@
-# Project-Portfolio-2023-Common-App
-This repository includes projects from science fair, independent research, and supercomputing challenge created by me. 
+# Project-Portfolio
+This repository includes independent research projects conducted by me during high school. 
